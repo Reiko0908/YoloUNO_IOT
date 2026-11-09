@@ -14,7 +14,7 @@ void setup() {
   // task2_start();   // LED blinky
   // task3_start();   // I2C + DHT20
   // task4_start();   // Semaphores
-  // task5_start();   // WebServer
+  task5_start();   // WebServer
 }
 
 void loop() {
